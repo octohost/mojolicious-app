@@ -14,4 +14,6 @@ git remote add octohost git@ip.address.here:mojolicious-app.git
 git push octohost master
 ```
 
+To view or rebuild the mojolicious framework container - [take a look here](https://github.com/octohost/mojolicious).
+
 Example site \(usually\) at [http://mojolicious.octohost.io](http://mojolicious.octohost.io)
